@@ -6,9 +6,9 @@ Estrutura padronizada do projeto:
 O-Desafio-da-Baseline/
 ├── src/
 │   └── main.py
-├── config.env
 ├── CONFIG_MAP.md
-└── README.md
+├── README.md
+└── config.env
 ```
 
 ## Execução
