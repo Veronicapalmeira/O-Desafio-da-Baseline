@@ -1,5 +1,7 @@
 # O-Desafio-da-Baseline
 
+**Tag:** `v1.0.0`
+
 Estrutura padronizada do projeto:
 
 ```text
